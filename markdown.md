@@ -19,10 +19,8 @@ The most common causes of these bootloader errors come from Corrupt bootloader f
 #
 - When repairing a drive that was in a device, usally it is encrypted if the security steps of the device was taken appropriately. Microsoft does have a built in encryption called "Bitlocker". Make sure to grab the encryption key (Bitlocker key) or back it up somewhere that you can easly get to it.
 
-- Make sure to remove the drive "SSD" or "HDD", and put it in a drive enclosure. This will then allow to then connect the drive via USB to another device so that you can run your commands and have admin rights. It is important that the account on your device does have full admin privileges. 
-    
-*<p align="center"> I will cover "encryption keys" later in this repository </p>*
-
+- Make sure to remove the drive "SSD" or "HDD", and put it in a drive enclosure. This will then allow to then connect the drive via USB to another device so that you can run your commands and have admin rights. It is important that the account on your device does have full admin privileges.
+  
 #
 - This command is a simple file checker utiltiy. It checks the integrity of the Windows system files to see if there is any corruption to those files like ".NET". This also repairs the required system files if they were to come up corrupted. Usally after running this command, it would prompt you to choose "Yes" to repair files, or "no" to not repair files. After selectign yes, files will then be in the process of being repaired.
 
