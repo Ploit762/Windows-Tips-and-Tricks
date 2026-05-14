@@ -31,6 +31,7 @@ Key thing to remember and make sure that you have is the bitlocker key for what 
       * `net user <username> \[new password]` once you have the user name, you can then create a new password for the account.
         
       *<p align="center">If the username has a space in it, enclose the username in quotation marks (")</p>*
+    
   * To create a local account within CMD, use these commands..
       * `net user <name> * /add` replace "name" with a name that you are wanting to create.
   * After this type in a password of your choice
@@ -45,7 +46,7 @@ Key thing to remember and make sure that you have is the bitlocker key for what 
       * `ren utilman1.exe utilman.exe`
   * All what is being done here is you renaming the file back to what it was before you started the hack. This is a great way to clean up your tracks that you left behind.
   * type "exit" and continue to Windows 11, check to see if the CMD shows once you click on the accessibility icon. If it does not show and gives you the normal Windows accessibility options, this means you have successfully changed everything back to the way it was.
-  * If you are still getting the CMD when clicking the accessibility icon, redo some of the steps and see where you may have missed something. 
+  * If you are still getting the CMD when clicking the accessibility icon, redo some of the steps and see where you may have missed something.  
 
 
 
